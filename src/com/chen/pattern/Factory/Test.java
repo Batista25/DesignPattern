@@ -7,7 +7,7 @@ package com.chen.pattern.Factory;
  * @author ChenShi
  * @date   2017年8月11日下午5:23:25
  */
-public class Factory {
+public class Test {
 
 	/**
 	 * @param args
