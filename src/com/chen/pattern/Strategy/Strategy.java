@@ -13,8 +13,18 @@ public class Strategy {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Duck duck = new LittleDuck();
+		duck.display();
+		duck.quack();
+		duck.fly();
+		System.out.println("*****************");
+		Duck duck1 = new BigDuck();
+		duck1.display();
+		duck1.quack();
+		duck1.fly();
 
 	}
+	
+	
 
 }
